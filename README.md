@@ -17,7 +17,7 @@ Siga as instruções abaixo para clonar, configurar e executar a aplicação em 
 Clone o repositório:
 
 
-git clone https://github.com/ryan/api-connect-ryan.git
+git clone[ https://github.com/ryan/api-connect-ryan.git](https://github.com/RyyanBrandao/api-connect-ryan)
 cd api-connect-ryan
 Crie e ative um ambiente virtual:
 
