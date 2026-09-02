@@ -16,21 +16,21 @@ Siga as instruções abaixo para clonar, configurar e executar a aplicação em 
 
 Clone o repositório:
 
-Bash
+
 git clone https://github.com/ryan/api-connect-ryan.git
 cd api-connect-ryan
 Crie e ative um ambiente virtual:
 
-Bash
+
 python -m venv venv
 .\venv\Scripts\activate
 Instale as dependências:
 
-Bash
+
 pip install flask
 Execute a aplicação:
 
-Bash
+
 python main.py
 O servidor estará acessível em: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
